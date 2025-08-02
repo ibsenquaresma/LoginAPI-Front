@@ -1,12 +1,18 @@
-# React + Vite
+# 🔐 Login Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Interface de autenticação moderna construída com **React 19**, **Vite** e **TailwindCSS**. Este projeto pode ser utilizado como base para sistemas que exigem autenticação de usuários.
 
-Currently, two official plugins are available:
+## 🧰 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React 19](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Lucide React Icons](https://lucide.dev/)
+- [ESLint](https://eslint.org/) — para análise estática de código
 
-## Expanding the ESLint configuration
+## 📦 Instalação
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/SEU_USUARIO/LoginAPI-Front.git
+   cd LoginAPI-Front
